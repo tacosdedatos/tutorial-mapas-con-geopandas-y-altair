@@ -3,3 +3,9 @@
 
 # python
 __pycache__/
+
+# datos interinos
+datos/interinos/
+
+# archivos geojson porque son muy grandes
+.geojson
