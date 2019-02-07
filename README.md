@@ -10,4 +10,4 @@ En este tutorial aprenderemos como crear un mapa con `altair`.
 
 
 ###### Resultado final
-![mapa-geopandas-con-altair](tutorial/figuras/finales/creando-mapas-con-geopandas-y-altair.png)
+![mapa-geopandas-con-altair](tutorial/figuras/finales/creando_mapas_con_geopandas_y_altair.png)
