@@ -1,8 +1,8 @@
 name: tacosdedatos-mapas-con-altair
 channels:
   - conda-forge
-  - defaults
+  
 dependencies:
+  - python=3.7
+  - geopandas
   - altair=2.3.*
-  - pandas=0.24.*
-  - geopandas=0.4.*
